@@ -1,0 +1,17 @@
+# PyCharm files
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Python virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# Cache and temporary files
+__pycache__/
+*.swp
+*~
